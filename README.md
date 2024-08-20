@@ -43,5 +43,6 @@ O projeto foi desenvolvido pelo grupo:
 * Willian Baracho
 * Brenda Gomes
 * Flora Natalia
+* João Pedro
  
  
