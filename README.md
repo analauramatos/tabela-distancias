@@ -22,6 +22,9 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 * Goiania
 * João pessoa
 
+## Resultado do projeto
+![Resultado final do projeto]()
+
  
 ## Tecnologias
 
